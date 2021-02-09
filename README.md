@@ -15,8 +15,8 @@ These are the steps I followed and anyone who wants to use their API should foll
 7. If you come up with something great and have suggestions for improvement to this project. Please push the changes so we all benefit from it.
 
 DISCLAIMER:
-    * I have no affiliation with TwelveData and I am not receiving any form of compensation from them to promote their API.
-    * I created this code for my personal use and thought of sharing with whoever would like to use their API. They also have very good how-to guides and have far more information and customization options that may be more suited for your needs.
+* I have no affiliation with TwelveData and I am not receiving any form of compensation from them to promote their API.
+* I created this code for my personal use and thought of sharing with whoever would like to use their API. They also have very good how-to guides and have far more information and customization options that may be more suited for your needs.
 
 Thank you!
 Anurag Bansal
